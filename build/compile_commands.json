@@ -1,0 +1,67 @@
+[
+{
+  "directory": "/HttpServer/build",
+  "command": "/usr/bin/g++   -I../include  -g   -std=gnu++17 -o CMakeFiles/main.dir/main.cpp.o -c /HttpServer/main.cpp",
+  "file": "/HttpServer/main.cpp"
+},
+
+{
+  "directory": "/HttpServer/build",
+  "command": "/usr/bin/g++   -I../include  -g   -std=gnu++17 -o CMakeFiles/HttpServer.dir/src/AsyncLogging.cpp.o -c /HttpServer/src/AsyncLogging.cpp",
+  "file": "/HttpServer/src/AsyncLogging.cpp"
+},
+
+{
+  "directory": "/HttpServer/build",
+  "command": "/usr/bin/g++   -I../include  -g   -std=gnu++17 -o CMakeFiles/HttpServer.dir/src/Epoll.cpp.o -c /HttpServer/src/Epoll.cpp",
+  "file": "/HttpServer/src/Epoll.cpp"
+},
+
+{
+  "directory": "/HttpServer/build",
+  "command": "/usr/bin/g++   -I../include  -g   -std=gnu++17 -o CMakeFiles/HttpServer.dir/src/HttpData.cpp.o -c /HttpServer/src/HttpData.cpp",
+  "file": "/HttpServer/src/HttpData.cpp"
+},
+
+{
+  "directory": "/HttpServer/build",
+  "command": "/usr/bin/g++   -I../include  -g   -std=gnu++17 -o CMakeFiles/HttpServer.dir/src/HttpParse.cpp.o -c /HttpServer/src/HttpParse.cpp",
+  "file": "/HttpServer/src/HttpParse.cpp"
+},
+
+{
+  "directory": "/HttpServer/build",
+  "command": "/usr/bin/g++   -I../include  -g   -std=gnu++17 -o CMakeFiles/HttpServer.dir/src/HttpRequest.cpp.o -c /HttpServer/src/HttpRequest.cpp",
+  "file": "/HttpServer/src/HttpRequest.cpp"
+},
+
+{
+  "directory": "/HttpServer/build",
+  "command": "/usr/bin/g++   -I../include  -g   -std=gnu++17 -o CMakeFiles/HttpServer.dir/src/HttpResponce.cpp.o -c /HttpServer/src/HttpResponce.cpp",
+  "file": "/HttpServer/src/HttpResponce.cpp"
+},
+
+{
+  "directory": "/HttpServer/build",
+  "command": "/usr/bin/g++   -I../include  -g   -std=gnu++17 -o CMakeFiles/HttpServer.dir/src/Logger.cpp.o -c /HttpServer/src/Logger.cpp",
+  "file": "/HttpServer/src/Logger.cpp"
+},
+
+{
+  "directory": "/HttpServer/build",
+  "command": "/usr/bin/g++   -I../include  -g   -std=gnu++17 -o CMakeFiles/HttpServer.dir/src/Server.cpp.o -c /HttpServer/src/Server.cpp",
+  "file": "/HttpServer/src/Server.cpp"
+},
+
+{
+  "directory": "/HttpServer/build",
+  "command": "/usr/bin/g++   -I../include  -g   -std=gnu++17 -o CMakeFiles/HttpServer.dir/src/Socket.cpp.o -c /HttpServer/src/Socket.cpp",
+  "file": "/HttpServer/src/Socket.cpp"
+},
+
+{
+  "directory": "/HttpServer/build",
+  "command": "/usr/bin/g++   -I../include  -g   -std=gnu++17 -o CMakeFiles/HttpServer.dir/src/Timer.cpp.o -c /HttpServer/src/Timer.cpp",
+  "file": "/HttpServer/src/Timer.cpp"
+}
+]

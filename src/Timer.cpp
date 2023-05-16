@@ -85,7 +85,6 @@ void TimerManager::handle_expired_event() {
           break;
         }
     }
-
     }
     
 }

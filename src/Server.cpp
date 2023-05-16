@@ -213,7 +213,6 @@ Server::handle_resource(std::shared_ptr<HttpData> data){
         data->responce->setfiletype(MineType("text/html"));
         data->responce->setstatus(HttpResponce::NOTFIND);
         data->responce->setstatusmsg("Not Found");
-        // std::cout << "NOT FOUND" << std::endl;
         LOG_INFO<<"NOT FOUND";
         return RESOURCE::NOTFIND;
     }
